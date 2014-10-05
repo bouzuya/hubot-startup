@@ -2,6 +2,8 @@
 
 A Hubot script that greets us when this script loaded.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141006/20141006001533.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-startup.git
