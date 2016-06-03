@@ -1,6 +1,6 @@
 {
   "name": "hubot-startup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that greets us when this script loaded",
   "main": "index.js",
   "scripts": {

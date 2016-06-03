@@ -22,6 +22,11 @@ or
 
 See [`src/scripts/startup.coffee`](src/scripts/startup.coffee).
 
+`HUBOT_STARTUP_ROOM` can be one of 3 formats:
+1. either a room name, e.g. "general"
+2. or a room name preceded by "#", e.g. "#general"
+3. or a username preceded by "@", e.g. "@somebody"
+
 ## Development
 
 `npm run`
